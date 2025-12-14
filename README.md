@@ -254,7 +254,7 @@ I'm currently **open to new opportunities** and always excited to collaborate on
   <a href="https://www.linkedin.com/in/omid-jabbari-link">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:omidjabbari51@gmail.com">
+  <a href="mhz.frontend@gmail.com"> 
     <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.omidjabbari.ir">
@@ -270,9 +270,9 @@ I'm currently **open to new opportunities** and always excited to collaborate on
 |----------|------|
 | 📧 **Email** | [omidjabbari51@gmail.com](mailto:omidjabbari51@gmail.com) |
 | 💼 **LinkedIn** | [omid-jabbari-link](https://linkedin.com/in/omid-jabbari-link) |
-| 🌐 **Portfolio** | [www.omidjabbari.ir](https://www.omidjabbari.ir) |
+
 | 📸 **Instagram** | [@omidkick](https://instagram.com/omidkick) |
-| 📱 **Phone** | +98-9155325694 |
+| 📱 **Phone** | +98-9375712598 | 
 
 <br>
 
@@ -289,7 +289,7 @@ I'm currently **open to new opportunities** and always excited to collaborate on
 **⭐ If you like my work, consider giving my repos a star!**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omidkick&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=matin-web&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
@@ -300,6 +300,6 @@ I'm currently **open to new opportunities** and always excited to collaborate on
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
-<i>Built with ❤️ by Matin Hajizadeh | Last Updated: November 2025</i> 
+<i>Built with ❤️ by Matin Hajizadeh | Last Updated: Decmber 2025</i> 
 
 </div>
