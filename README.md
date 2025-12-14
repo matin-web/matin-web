@@ -268,11 +268,11 @@ I'm currently **open to new opportunities** and always excited to collaborate on
 
 | Platform | Link |
 |----------|------|
-| 📧 **Email** | [omidjabbari51@gmail.com](mailto:omidjabbari51@gmail.com) |
-| 💼 **LinkedIn** | [omid-jabbari-link](https://linkedin.com/in/omid-jabbari-link) |
-
-| 📸 **Instagram** | [@omidkick](https://instagram.com/omidkick) |
-| 📱 **Phone** | +98-9375712598 | 
+| 📧 **Email** | [mhz.frontend@gmail.com](mailto:mhz.frontend@gmail.com) |
+| 💼 **LinkedIn** | [matindev](https://www.linkedin.com/in/matindev/) |
+| 📸 **Instagram** | [@id4you_ig](https://instagram.com/id4you_ig) |
+| 📱 **Phone** | +98-9375712598 |
+ 
 
 <br>
 
