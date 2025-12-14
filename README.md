@@ -47,12 +47,13 @@ const matin = {
     learning: ["Advanced React", "TypeScript", "Next.js"],
     interests: ["Clean Code", "Modern UI/UX", "Continuous Learning", "Web Performance"],
     
-    story: () => {
-        return "My journey started with a simple goal: build a website for my business. " +
-               "That curiosity sparked a passion that evolved into a career. " +
-               "From my first full-stack thesis project in 2018 to today, " +
-               "I've been crafting digital experiences that users love.";
-    }
+story: () => {
+    return "My journey into web development started with curiosity and a desire to create. " +
+           "I began by learning the fundamentals of front-end development and building small projects. " +
+           "Over time, this interest turned into a clear career path focused on React and modern web technologies. " +
+           "Today, I’m continuously learning and building projects to improve my skills and create better user experiences.";
+}
+
 };
 ```
 
