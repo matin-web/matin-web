@@ -17,11 +17,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omidkick&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=matin-web&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/matin-web?tab=followers">
-    <img src="https://img.shields.io/github/followers/omidkick?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github&logoColor=white" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/matin-web?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github&logoColor=white" alt="Followers" />
   </a>
-<img src="https://img.shields.io/github/stars/omidkick?label=Total%20Stars&style=for-the-badge&color=yellow&logo=star&logoColor=white" alt="Total Stars" />
+<img src="https://img.shields.io/github/stars/matin-web?label=Total%20Stars&style=for-the-badge&color=yellow&logo=star&logoColor=white" alt="Total Stars" />
 
 </p>
 
