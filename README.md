@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/matindev/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/omidkick" target="_blank">
+  <a href="https://instagram.com/id4you_ig" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:mhz.frontend@gmail.com">
@@ -58,10 +58,10 @@ const matin = {
 
 ### 💡 What Drives Me
 
-I believe in the power of **clean code** and **intuitive design**. Every project is an opportunity to solve problems creatively and build something that makes a difference. Whether it's debugging a tricky issue or perfecting a pixel, I'm all in.
+I’m motivated by learning, improving, and building user-friendly interfaces.  
+As a junior front-end developer, I focus on writing clean code, understanding best practices, and turning designs into responsive, usable experiences.
 
-> *"Let's build something meaningful—one line of code at a time."*
-
+> *"Learn every day, build better every time."*
 ---
 
 ## 🛠️ Tech Stack
