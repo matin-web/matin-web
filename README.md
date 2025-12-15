@@ -76,9 +76,16 @@ As a junior front-end developer, I focus on writing clean code, understanding be
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white)
+
+![Redux](https://img.shields.io/badge/Redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
+![Ant Design](https://img.shields.io/badge/Ant_Design-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)
+![Material_UI](https://img.shields.io/badge/Material_UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ### **State Management & Tools**
