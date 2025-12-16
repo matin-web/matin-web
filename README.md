@@ -65,7 +65,7 @@ As a junior front-end developer, I focus on writing clean code, understanding be
 > *"Learn every day, build better every time."*
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
 ### **Frontend**
 
@@ -73,18 +73,18 @@ As a junior front-end developer, I focus on writing clean code, understanding be
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass / Scss](https://img.shields.io/badge/Sass%20%2F%20SCSS-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **Frameworks & Libraries**
+### **Frameworks & UI**
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)
 ![Material_UI](https://img.shields.io/badge/Material_UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white)
 
 ### **State Management & Tools**
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
